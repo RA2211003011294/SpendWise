@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pytest
+httpx
+pwdlib[argon2]
+PyJWT
+python-dotenv
